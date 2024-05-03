@@ -1,3 +1,4 @@
+# Status : Completed 
 # Node class  
 class Node:  
     # Function to initialise the node object  
